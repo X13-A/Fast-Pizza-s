@@ -1,4 +1,4 @@
-# Pizzeria
+# Fast pizza's
 A pizzeria Website with a lot of essential features.
 
 Uses Laravel.
